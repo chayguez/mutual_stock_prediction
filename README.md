@@ -1,5 +1,5 @@
 # Stock-Pred-Mutual-Info
-POC tool ment to check the mutual information between stocks. The project measures performance gain of adding information from a group of stocks to the prediction model of a specific stock.
+POC tool meant to check the mutual information between stocks. The project measures performance gain of adding information from a group of stocks to the prediction model of a specific stock.
 
 
 ![results](https://github.com/Aviv-Ratzon/Shit-Class_Stock-Pred/blob/main/images/LossChangeStats.png)
